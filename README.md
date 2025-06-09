@@ -31,7 +31,7 @@ Para adicionar um produto à nossa base de dados, siga os passos abaixo. Sua tar
 
 4.  **Adicione seu Produto:**
     * Abra o arquivo `data.json` no seu editor de código preferido.
-    * Adicione um novo produto ao final da lista, mantendo o formato JSON. **Atenção:** Lembre-se de adicionar uma vírgula `,` depois do último item da lista antes de inserir o seu.
+    * Adicione 5 novos produtos ao final da lista de uma catgoria de sua preferência, mantendo o formato JSON. **Atenção:** Lembre-se de adicionar uma vírgula `,` depois do último item da lista antes de inserir o seu.
     * Utilize o seguinte modelo para o seu produto:
         ```json
         {

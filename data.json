@@ -6,45 +6,49 @@
       "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Mochila",
       "description": "Mochila espaçosa e segura, com compartimento para laptop, portas USB e design à prova d'água."
     },
-      {
-      "id": 1,
-      "name": "Camiseta Básica Branca",
-      "category": "Roupas",
-      "price": 39.90,
-      "image": "https://imgs.search.brave.com/VtFZudhORi9AAK1v2L1AWPvyjtXZ1dCrPZ_ynk3iQlY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9RX05QXzJY/XzYyMDM4MS1NTEI4/NDYzMTE1MzMyNV8w/NTIwMjUtRS1jYW1p/c2V0YS1icmFuY2Et/YmFzaWNhLTEwMGFs/Z29kby1wYWRyby1j/ZHAtZGV0ZW50by53/ZWJw",
-      "description": "Camiseta 100% algodão, confortável e ideal para o dia a dia."
-    },
-    {
-      "id": 2,
-      "name": "Fone Bluetooth X12",
-      "category": "Eletrônicos",
-      "price": 129.90,
-      "image": "https://imgs.search.brave.com/lGTBEO36TfWdrbx0uHsPU7dGzey32Ex4eskGrjVTK6w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzEraFdmbnloYUwu/anBn",
-      "description": "Fone de ouvido com conexão Bluetooth 5.0 e bateria de longa duração."
-    },
-    {
-      "id": 3,
-      "name": "Caneca Térmica 350ml",
-      "category": "Utilidades Domésticas",
-      "price": 59.99,
-      "image": "https://imgs.search.brave.com/sfCT8sLX-T9CsLoZxbCXXpGywxOtgTsWyLY_7qJkcko/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudGNkbi5jb20u/YnIvaW1nL2ltZ19w/cm9kLzExMDQ5MTAv/MTgwX2NhbmVjYV90/ZXJtaWNhXzM1MG1s/X3hzX3ByZXRhXzEy/NDNfMl9kMTk1N2M3/MDg3YTE2MGZlNmNk/MTU4MmMzZTFhMDQ4/NC5qcGc",
-      "description": "Ideal para manter bebidas quentes ou frias por mais tempo."
-    },
-    {
-      "id": 4,
-      "name": "Tênis Esportivo RunFast",
-      "category": "Calçados",
-      "price": 199.90,
-      "image": "https://imgs.search.brave.com/zcdBAR0yoDlx-YkjaSRV7ucPKzKhQmqhp-yFnKl31Zo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92aW5u/Y2lzdG9yZS5jb20u/YnIvY2RuL3Nob3Av/cHJvZHVjdHMvdGVu/aXMtZXNwb3J0aXZv/LXJ1bi1mYXN0LTMz/eS10ZW5pcy1lc3Bv/cnRpdm8tcnVuLWZh/c3QtMzN5LXZpbm5j/aS1zdG9yZS1wcmV0/b2JyYW5jby0zNi0x/NzYyODNfNjQweC5q/cGc_dj0xNjk1NTAy/Mjc2",
-      "description": "Tênis leve e resistente, ideal para corridas e caminhadas."
-    },
-    {
-      "id": 5,
-      "name": "Livro 'O Poder do Hábito'",
-      "category": "Livros",
-      "price": 44.90,
-      "image": "https://imgs.search.brave.com/VO5HucTXC5z1oW2zJle0BCRZpLdn_VLAxIar0rZ3PjM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/MmU4OTkzMTI3M2I1/YzIxYmU3NmM0ODYv/NjQ2NmFjMWU0NjRh/NDA1MDEwNDdhMmVj/X28tcG9kZXItZG8t/aGFiaXRvLmpwZWc",
-      "description": "Best-seller sobre como os hábitos moldam nossas vidas e como mudá-los."
-    }
-  ]
-      
+  {
+    "id": 1,
+    "name": "Notebook Lenovo Ideapad 3i",
+    "category": "Eletrônicos",
+    "price": 2500.00,
+    "image": "https://a-static.mlcdn.com.br/800x560/notebook-lenovo-ideapad3i-82bs0005br-intel-core-i5-8gb-256gb-ssd-156-lcd-windows-10/magazineluiza/135302600/8b52aec49b6fdba92b00e8c76bf3951d.jpg",
+    "description": "Notebook da marca Lenovo.",
+    "author": "João Pedro"
+  },
+  {
+    "id": 2,
+    "name": "Fone Bluetooth X12",
+    "category": "Eletrônicos",
+    "price": 129.90,
+    "image": "https://imgs.search.brave.com/lGTBEO36TfWdrbx0uHsPU7dGzey32Ex4eskGrjVTK6w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzEraFdmbnloYUwu/anBn",
+    "description": "Fone de ouvido com conexão Bluetooth 5.0 e bateria de longa duração.",
+    "author": "João Pedro"
+  },
+  {
+    "id": 3,
+    "name": "Smartphone Samsung Galaxy A54",
+    "category": "Eletrônicos",
+    "price": 2299.00,
+    "image": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/e/celular-smartphone-samsung-galaxy-a54-5g-octacore-8gb-ram-128gb_811329.webp",
+    "description": "Smartphone com tela Super AMOLED de 6.4” e câmera tripla de alta resolução.",
+    "author": "João Pedro"
+  },
+  {
+    "id": 4,
+    "name": "Monitor LG 24'' Full HD",
+    "category": "Eletrônicos",
+    "price": 899.99,
+    "image": "https://images.tcdn.com.br/img/img_prod/15959/monitor_24_lg_full_hd_hdmi_24mp400_b_18339_2_2dda04b6ad76ba401b148c5049442129.jpg",
+    "description": "Monitor de 24 polegadas com resolução Full HD e bordas ultrafinas.",
+    "author": "João Pedro"
+  },
+  {
+    "id": 5,
+    "name": "Caixa de Som JBL GO 3",
+    "category": "Eletrônicos",
+    "price": 249.90,
+    "image": "https://images.tcdn.com.br/img/img_prod/1140357/caixa_de_som_portatil_jbl_go_3_bluetooth_preto_jblgo3blk_1181_8_2a9d8ce892c50d544dfa3460b4a6fa8d.jpg",
+    "description": "Caixinha de som portátil com som potente, resistente à água (IP67) e bateria de até 5h.",
+    "author": "João Pedro"
+  }
+]

@@ -1,10 +1,47 @@
-  [
-     { "id": 0,
-      "name": "Mochila Executiva Antifurto",
-      "category": "Acessórios",
-      "price": 179.90,
-      "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Mochila",
-      "description": "Mochila espaçosa e segura, com compartimento para laptop, portas USB e design à prova d'água."
-    }
+[
+  {
+    "id": 1,
+    "name": "Furadeira de Impacto 1/2\"",
+    "category": "Ferramentas",
+    "price": 249.90,
+    "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Furadeira",
+    "description": "Potente furadeira de impacto com mandril de 1/2 polegada, ideal para perfurações em alvenaria, concreto e metal. Possui velocidade variável e reversível.",
+    "contributor": "mauricio teste"
+  },
+  {
+    "id": 2,
+    "name": "Parafusadeira a Bateria 12V",
+    "category": "Ferramentas",
+    "price": 189.90,
+    "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Parafusadeira",
+    "description": "Parafusadeira compacta e leve, com bateria de 12V de íons de lítio, controle de torque e luz de LED para iluminar a área de trabalho.",
+    "contributor": "mauricio teste"
+  },
+  {
+    "id": 3,
+    "name": "Serra Tico-Tico com Ação Pendular",
+    "category": "Ferramentas",
+    "price": 299.90,
+    "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Serra+Tico-Tico",
+    "description": "Serra tico-tico versátil para cortes curvos e retos em madeira, metal e plástico. Com ação pendular para cortes mais rápidos e base ajustável.",
+    "contributor": "mauricio teste"
+  },
+  {
+    "id": 4,
+    "name": "Esmerilhadeira Angular 4.1/2\"",
+    "category": "Ferramentas",
+    "price": 219.90,
+    "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Esmerilhadeira",
+    "description": "Esmerilhadeira angular para desbaste e corte de metais. Com disco de 4.1/2 polegadas, potente motor e design ergonômico para maior controle.",
+    "contributor": "mauricio teste"
+  },
+  {
+    "id": 5,
+    "name": "Martelo Unha 27mm Cabo de Fibra",
+    "category": "Ferramentas",
+    "price": 59.90,
+    "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Martelo",
+    "description": "Martelo unha com cabeça de 27mm em aço forjado e cabo de fibra de vidro emborrachado para maior durabilidade e conforto no manuseio.",
+    "contributor": "mauricio teste"
+  }
 ]
-      

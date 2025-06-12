@@ -52,6 +52,7 @@
     "description": "Caixinha de som portátil com som potente, resistente à água (IP67) e bateria de até 5h.",
     "author": "João Pedro"
   },
+
   {
     "id": 6,
     "name": "Geladeira Electrolux Frost",
@@ -96,5 +97,51 @@
     "image": " https://electrolux.vtexassets.com/arquivos/ids/213770-1200-1200?v=637716825977200000&width=1200&height=1200&aspect=true",
     "description": " Desenvolvido para oferecer uma vida mais saudável a você e toda sua família, o Purificador PA21G Electrolux proporciona água livre de impurezas, cloro e odores. O aparelho possui um design moderno que se destaca pelo painel Blue Touch com todas as funções bem sinalizadas e sensíveis ao toque.",
     "contribuidor": "Pedro Zacarias"
+
+
+  { "id": 101,
+    "name": "Bolsa Tote Elegante",
+    "category": "Bolsas",
+    "price": 199.99,
+    "image": "https://ik.imagekit.io/gocase/govinci/tote-mini-bon-voyage-name-texteis/minitotecinza-minitotebag/mockup?",
+    "description": "Bolsa espaçosa e sofisticada, ideal para o dia a dia.",
+    "contribuidor": "Nivia"
+  },
+  {
+    "id": 102,
+    "name": "Bolsa Transversal Casual",
+    "category": "Bolsas",
+    "price": 149.90,
+    "image": "https://m.media-amazon.com/images/I/41oNnw7G1hL._AC_.jpg",
+    "description": "Compacta e prática, perfeita para passeios e viagens.",
+    "contribuidor": "Nivia"
+  },
+  {
+    "id": 103,
+    "name": "Bolsa Carteiro Vintage",
+    "category": "Bolsas",
+    "price": 179.50,
+    "image": "https://down-br.img.susercontent.com/file/9835e85b31ea8215af24afb72eacd371",
+    "description": "Design clássico e funcional, ótima para o trabalho.",
+    "contribuidor": "Nivia"
+  },
+  {
+    "id": 104,
+    "name": "Bolsa Saco Moderna",
+    "category": "Bolsas",
+    "price": 210.00,
+    "image": "https://a-static.mlcdn.com.br/800x560/bolsa-feminina-estilo-saco-grande-luxo-casual-moderna-maxi-de-mao-transversal-detalhes-dourados-outra/modabolsasvp/16020167040/c6f0dd30bf00c30a79d7b7307410c15c.jpeg",
+    "description": "Estilo despojado e espaçoso, ideal para quem gosta de praticidade.",
+    "contribuidor": "Nivia"
+  },
+  {
+    "id": 105,
+    "name": "Bolsa Clutch Luxo",
+    "category": "Bolsas",
+    "price": 299.99,
+    "image": "https://images.tcdn.com.br/img/img_prod/944493/bolsa_de_festa_clutch_com_strass_brilho_luxo_2465_2_16dd8c5a8f61dc0461b96e7f5a81516c.jpg",
+    "description": "Pequena e sofisticada, perfeita para eventos especiais.",
+    "contribuidor": "Nivia"
+
   }
 ]

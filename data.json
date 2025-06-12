@@ -1,12 +1,5 @@
 [
-  {
-    "id": 0,
-    "name": "Mochila Executiva Antifurto",
-    "category": "Acessórios",
-    "price": 179.9,
-    "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Mochila",
-    "description": "Mochila espaçosa e segura, com compartimento para laptop, portas USB e design à prova d'água."
-  },
+  
   {
     "id": 1,
     "name": "Notebook Lenovo Ideapad 3i",
@@ -14,7 +7,7 @@
     "price": 2500.0,
     "image": "https://a-static.mlcdn.com.br/800x560/notebook-lenovo-ideapad3i-82bs0005br-intel-core-i5-8gb-256gb-ssd-156-lcd-windows-10/magazineluiza/135302600/8b52aec49b6fdba92b00e8c76bf3951d.jpg",
     "description": "Notebook da marca Lenovo.",
-    "author": "João Pedro"
+    "contribuidor": "João Pedro"
   },
   {
     "id": 2,
@@ -23,7 +16,7 @@
     "price": 129.9,
     "image": "https://imgs.search.brave.com/lGTBEO36TfWdrbx0uHsPU7dGzey32Ex4eskGrjVTK6w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzEraFdmbnloYUwu/anBn",
     "description": "Fone de ouvido com conexão Bluetooth 5.0 e bateria de longa duração.",
-    "author": "João Pedro"
+    "contribuidor": "João Pedro"
   },
   {
     "id": 3,
@@ -32,7 +25,7 @@
     "price": 2299.0,
     "image": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/e/celular-smartphone-samsung-galaxy-a54-5g-octacore-8gb-ram-128gb_811329.webp",
     "description": "Smartphone com tela Super AMOLED de 6.4” e câmera tripla de alta resolução.",
-    "author": "João Pedro"
+    "contribuidor": "João Pedro"
   },
   {
     "id": 4,
@@ -41,7 +34,7 @@
     "price": 899.99,
     "image": "https://images.tcdn.com.br/img/img_prod/15959/monitor_24_lg_full_hd_hdmi_24mp400_b_18339_2_2dda04b6ad76ba401b148c5049442129.jpg",
     "description": "Monitor de 24 polegadas com resolução Full HD e bordas ultrafinas.",
-    "author": "João Pedro"
+    "contribuidor": "João Pedro"
   },
   {
     "id": 5,
@@ -50,7 +43,7 @@
     "price": 249.9,
     "image": "https://images.tcdn.com.br/img/img_prod/1140357/caixa_de_som_portatil_jbl_go_3_bluetooth_preto_jblgo3blk_1181_8_2a9d8ce892c50d544dfa3460b4a6fa8d.jpg",
     "description": "Caixinha de som portátil com som potente, resistente à água (IP67) e bateria de até 5h.",
-    "author": "João Pedro"
+    "contribuidor": "João Pedro"
   },
 
   {

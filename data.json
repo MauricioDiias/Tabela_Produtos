@@ -1,16 +1,17 @@
-  [
-     { "id": 0,
-      "name": "Mochila Executiva Antifurto",
-      "category": "Acessórios",
-      "price": 179.90,
-      "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Mochila",
-      "description": "Mochila espaçosa e segura, com compartimento para laptop, portas USB e design à prova d'água."
-    },
+[
+  {
+    "id": 0,
+    "name": "Mochila Executiva Antifurto",
+    "category": "Acessórios",
+    "price": 179.9,
+    "image": "https://placehold.co/100x100/34495E/FFFFFF?text=Mochila",
+    "description": "Mochila espaçosa e segura, com compartimento para laptop, portas USB e design à prova d'água."
+  },
   {
     "id": 1,
     "name": "Notebook Lenovo Ideapad 3i",
     "category": "Eletrônicos",
-    "price": 2500.00,
+    "price": 2500.0,
     "image": "https://a-static.mlcdn.com.br/800x560/notebook-lenovo-ideapad3i-82bs0005br-intel-core-i5-8gb-256gb-ssd-156-lcd-windows-10/magazineluiza/135302600/8b52aec49b6fdba92b00e8c76bf3951d.jpg",
     "description": "Notebook da marca Lenovo.",
     "author": "João Pedro"
@@ -19,7 +20,7 @@
     "id": 2,
     "name": "Fone Bluetooth X12",
     "category": "Eletrônicos",
-    "price": 129.90,
+    "price": 129.9,
     "image": "https://imgs.search.brave.com/lGTBEO36TfWdrbx0uHsPU7dGzey32Ex4eskGrjVTK6w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzEraFdmbnloYUwu/anBn",
     "description": "Fone de ouvido com conexão Bluetooth 5.0 e bateria de longa duração.",
     "author": "João Pedro"
@@ -28,7 +29,7 @@
     "id": 3,
     "name": "Smartphone Samsung Galaxy A54",
     "category": "Eletrônicos",
-    "price": 2299.00,
+    "price": 2299.0,
     "image": "https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/c/e/celular-smartphone-samsung-galaxy-a54-5g-octacore-8gb-ram-128gb_811329.webp",
     "description": "Smartphone com tela Super AMOLED de 6.4” e câmera tripla de alta resolução.",
     "author": "João Pedro"
@@ -46,9 +47,54 @@
     "id": 5,
     "name": "Caixa de Som JBL GO 3",
     "category": "Eletrônicos",
-    "price": 249.90,
+    "price": 249.9,
     "image": "https://images.tcdn.com.br/img/img_prod/1140357/caixa_de_som_portatil_jbl_go_3_bluetooth_preto_jblgo3blk_1181_8_2a9d8ce892c50d544dfa3460b4a6fa8d.jpg",
     "description": "Caixinha de som portátil com som potente, resistente à água (IP67) e bateria de até 5h.",
     "author": "João Pedro"
+  },
+  {
+    "id": 6,
+    "name": "Geladeira Electrolux Frost Free",
+    "category": "Eletrodomésticos",
+    "price": 4.399,
+    "image": " https://electrolux.vtexassets.com/arquivos/ids/266220-1200-1200?v=638705615457470000&width=1200&height=1200&aspect=true",
+    "description": "A Geladeira Electrolux Frost Free 480L Efficient AutoSense Duplex HortiNatura Inox Look (TF71S) tem tecnologias que facilitam o dia a dia e ainda conserva os alimentos com mais sabor e evitando o desperdício. Ela tem a tecnologia AutoSense, que usa Inteligência Artificial para controlar a temperatura de acordo com os hábitos de uso.",
+    "contribuidor": "Pedro Zacarias"
+  },
+  {
+    "id": 7,
+    "name": "Máquina de Lavar Frontal Electrolux",
+    "category": "Eletrodomésticos",
+    "price": 2.699,
+    "image": " https://electrolux.vtexassets.com/arquivos/ids/213591-1200-1200?v=637716355481930000&width=1200&height=1200&aspect=true",
+    "description": "A Máquina de Lavar Frontal 11kg Electrolux Premium Care Inverter facilita o carregamento e descarregamento da máquina, além de proporcionar uma lavagem eficiente para todos os tipos de roupas",
+    "contribuidor": "Pedro Zacarias"
+  },
+  {
+    "id": 8,
+    "name": " O fogão 4 bocas inox mesa de vidro Electrolux (FE4GS) ",
+    "category": "Eletrodomésticos",
+    "price": 1.549,
+    "image": " https://electrolux.vtexassets.com/arquivos/ids/226152-1200-1200?v=638212321814970000&width=1200&height=1200&aspect=true",
+    "description": "O fogão 4 bocas inox mesa de vidro Electrolux (FE4GS)  Equipado com tecnologias como PerfectCook e VaporBake, o fogão inox 4 bocas mesa vidro assegura um cozimento mais rápido e eficiente, preservando o sabor e a textura dos alimentos, Com 72,6 litros de capacidade no forno.",
+    "contribuidor": "Pedro Zacarias"
+  },
+  {
+    "id": 9,
+    "name": "Liquidificador Electrolux 700w 1,5L ",
+    "category": "Eletrodomésticos",
+    "price": 329.0,
+    "image": "https://electrolux.vtexassets.com/arquivos/ids/218289-1200-1200?v=638785980072170000&width=1200&height=1200&aspect=true",
+    "description": " O liquidificador Electrolux com copo de vidro 700W (EBS30) oferece motor potente para lidar com todos os tipos de receitas com facilidade, desde as mais delicadas até a trituração de gelo, com capacidade útil de 1,5 litros.",
+    "contribuidor": "Pedro Zacarias"
+  },
+  {
+    "id": 10,
+    "name": " Purificador Electrolux Eletrônico c/ Painel Digital ",
+    "category": "Eletrodomésticos",
+    "price": 789,
+    "image": " https://electrolux.vtexassets.com/arquivos/ids/213770-1200-1200?v=637716825977200000&width=1200&height=1200&aspect=true",
+    "description": " Desenvolvido para oferecer uma vida mais saudável a você e toda sua família, o Purificador PA21G Electrolux proporciona água livre de impurezas, cloro e odores. O aparelho possui um design moderno que se destaca pelo painel Blue Touch com todas as funções bem sinalizadas e sensíveis ao toque.",
+    "contribuidor": "Pedro Zacarias"
   }
 ]

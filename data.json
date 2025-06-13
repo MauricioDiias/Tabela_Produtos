@@ -136,5 +136,13 @@
     "description": "Pequena e sofisticada, perfeita para eventos especiais.",
     "contribuidor": "Nivia"
 
+  },  {
+    "id": 201,
+    "name": "Notebook Lenovo Ideapad 3i",
+    "category": "Notebook",
+    "price": 500.0,
+    "image": "https://a-static.mlcdn.com.br/800x560/notebook-lenovo-ideapad3i-82bs0005br-intel-core-i5-8gb-256gb-ssd-156-lcd-windows-10/magazineluiza/135302600/8b52aec49b6fdba92b00e8c76bf3951d.jpg",
+    "description": "Notebook da marca Lenovo.",
+    "contribuidor": "Mauricio"
   }
 ]
